@@ -5,12 +5,14 @@ Greetings Everyone,
 My name is Deekshith Maram, I belong to computer science field and did my undergradution in Electronics and Computer Science. Later, I worked as a software developer. I majorily worked on mobile and web application development. Currently, I am pursuing masters degree in Applied Computer Science at Northwest Missouri State University. My interests are in developing good software products for enterprise use and my major hobby is playing video games.
 
 ### Collaboration:
+* Git clone
+* Git push
 * Github profile: https://github.com/Dixith1196
 
 
 ### Languages:
 
-- Java script
+- JavaScript
 - swift
 - JSX
 - JAVA
@@ -32,5 +34,8 @@ LinkedIn: https://www.linkedin.com/in/deekshith-maram/
 
 Github: https://github.com/Dixith1196
 
+## Publishing: 
+
+Heroku
 
 
